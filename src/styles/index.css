@@ -46,3 +46,47 @@ input:focus {
   background: #FA52A0;
   cursor: pointer;
 }
+body {
+  background-image: url('../assets/images/earth-mars.jpg');
+}
+header {
+  background-color: rgb(39, 38, 44);
+}
+.nav-links a {
+  color: rgb(255, 136, 0) !important;
+  font-weight: bold !important;
+}
+#connect-wallet {
+  background-color: rgb(0, 86, 172);
+}
+.bg-dark-900 {
+  background-color:#000000 !important;
+}
+.bg-dark-800, .bg-gray {
+  background-color:rgb(39, 38, 44) !important;
+}
+.shadow-swap-blue-glow .bg-gray {
+  background-color:rgb(39, 38, 44) !important;
+}
+.shadow-swap-blue-glow .swap-active, .shadow-liquidity-purple-glow .swap-active {
+  background-color: rgb(255, 136, 0) !important;
+  background-image: none !important;
+  border: 0 !important;
+}
+button.sc-htpNat {
+  background-color:rgb(0, 86, 172) !important;
+  color: #fff !important;
+}
+span.inOARS, .geeBfe {
+  background-color:rgb(39, 38, 44) !important;
+}
+#join-pool-button {
+  background-color:rgb(0, 86, 172) !important;
+  color: #fff !important;
+  background-image:none !important;
+}
+.edyyQb, .fgPNeA {
+  background-color:rgb(39, 38, 44) !important;
+  color: #fff !important;
+  border-color: rgb(39, 38, 44) !important;
+}
